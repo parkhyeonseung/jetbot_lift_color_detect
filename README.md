@@ -48,13 +48,13 @@
 - transfer learning<br>
 - alexnet, squeezenet, efficientnet, teacherable machine learning
 
-- <b> <i> 개발 환경 구현 </i> <b> <br>
--jetpack 4.3 -> jetpack 4.6
--pytorch 1.0 -> pytorch 1.9
--tensorflow lite
-![따라와](./img/ddarawa.jpg)
-![따라와 설계](./img/ddarawa_.png)
-
+- <b> <i> 개발 환경 구현 </i> </b> <br />
+-jetpack 4.3 -> jetpack 4.6<br />
+-pytorch 1.0 -> pytorch 1.9<br />
+-tensorflow lite<br />
+![따라와](./img/ddarawa.jpg)<br />
+![따라와 설계](./img/ddarawa_.png)<br />
+<br />
 
 
 
