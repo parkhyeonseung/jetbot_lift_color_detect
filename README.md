@@ -6,6 +6,8 @@
 - 따라가 주행
 - 협동 작업 수행
 ![Lift Station 협동 작업 모습](./img/lift_station.jpg)
+
+- the source code /jetbot/ddrawa/
 ## 아이디어 컨셉
 - 기존의 문제점<br>
 -약 3~5m 이상의 자재를 자율주행으로 이동시켜주는 이동체가 없다.
