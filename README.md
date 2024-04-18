@@ -1,6 +1,7 @@
 # AI 로봇 해커톤 in 마곡
  따라가라파
 ![시연 모습](./img/all.jpg)
+실행 파일 : detect_rawa.py, detect_raga.py
 ## 시연 순서
 - 자율주행
 - 따라가 주행
